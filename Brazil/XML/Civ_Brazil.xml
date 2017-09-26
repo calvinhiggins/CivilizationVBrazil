@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/30/2011 9:27:30 PM -->
+
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_TW_PINEAPPLE</Type>
+			<Description>TXT_KEY_CIV_TW_PINEAPPLE_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_TW_PINEAPPLE_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_TW_PINEAPPLE_ADJECTIVE</Adjective>
+			<CivilopediaTag>TXT_KEY_CIV_TW_PINEAPPLE</CivilopediaTag>
+			<DefaultPlayerColor>PLAYERCOLOR_LIGHT_BLUE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_AMERICA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
+			<AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
+			<MapImage>MapAmerica512.dds</MapImage>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+			<DawnOfManQuote>TXT_KEY_CIV_TW_PINEAPPLE_TEXT_1</DawnOfManQuote>
+			<DawnOfManImage>DOM_Abacaxi.dds</DawnOfManImage>
+			<SoundtrackTag>America</SoundtrackTag>
+		</Row>
+	</Civilizations>
+	
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<LeaderheadType>LEADER_TW_ABACAXI</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<UnitClassType>UNITCLASS_WARRIOR</UnitClassType>
+			<UnitType>UNIT_TW_SOLDADO</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+			<UnitType>UNIT_TW_STRIKE_FORCE</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
+			<BuildingType>BUILDING_TW_FEEDING_GROUND</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TW_PINEAPPLE_17</CityName>
+		</Row>
+	</Civilization_CityNames>
+
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_TW_PINEAPPLE</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<Count>1</Count>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+		</Row>
+	</Civilization_FreeUnits>
+
+</GameData>

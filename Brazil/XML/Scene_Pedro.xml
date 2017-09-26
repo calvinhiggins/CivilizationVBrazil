@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/22/2013 12:11:24 PM -->
+<LeaderScene FallbackImage="Scene_Abacaxi.dds">
+	<LeaderObject  model="american_washington.fxsxml"></LeaderObject>
+</LeaderScene>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/18/2013 12:48:55 PM -->
+<GameData>
+	<Language_en_US>
+
+	<!-- Descriptions-->
+
+	<Row Tag="TXT_KEY_CIV_TW_PINEAPPLE_ADJECTIVE">
+		<Text>Pineapple</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV_TW_PINEAPPLE_DESC">
+		<Text>The Pineapples</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV_TW_PINEAPPLE_SHORT_DESC">
+		<Text>The Pineapples</Text>
+	</Row>
+
+
+	<!-- Heading and Text-->
+
+	<Row Tag="TXT_KEY_CIV_TW_PINEAPPLE_HEADING_1">
+		<Text>History</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV_TW_PINEAPPLE_TEXT_1">
+		<Text>As the universe came into being, amid the gouts of fire spurted from the furance of creation, a Thing awoke. It had slumbered, It's rest undisturbed for eons until this very day. While It shoke the last vestiges of sleep from It's head, a planet smashed into It's back. It was indeed immortal but not invulable to attack. This blow wounded It, sending It back into the realm of unconcousness. Meanwhile, the planet, and it's newly formed moon that had been smote from it's 'mother' by the impact, slowly calmed and life began. Civilizations rose and fell and at around 1900 b.c. It awoke. It had lost all of It's memory and luckly so as It no longer knew how to unlease It's terrible powers. It took on a name and a form. It became Abacaxi of the Pineapple Empire.</Text>
+	</Row>
+
+
+	<!-- Leader -->
+
+	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TW_ABACAXI_LIVED">
+		<Text>Before Time - Present</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TW_ABACAXI_NAME">
+		<Text>Abacaxi</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TW_ABACAXI_SUBTITLE">
+		<Text>The Eater of Men</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_TW_ABACAXI">
+		<Text>Abacaxi</Text>
+	</Row>
+
+	<!-- Leader Traits	-->
+	
+	<Row Tag="TXT_KEY_TRAIT_TW_BLOOD_LUST">
+		<Text>-60% [ICON_HAPPINESS_4] from cities but plus 10% [ICON_HAPPINESS_4] from population. Also, decreases the [ICON_GOLD] cost of land unit maintenance by 25%</Text>
+	</Row>
+	<Row Tag="TXT_KEY_TRAIT_TW_BLOOD_LUST_SHORT">
+		<Text>Blood Lust</Text>
+	</Row>
+
+
+	<!-- Unique Units -->
+
+	<Row Tag="TXT_KEY_UNIT_TW_SOLDADO">
+		<Text>Soldado</Text>
+	</Row>
+	<Row Tag="TXT_KEY_UNIT_HELP_TW_SOLDADO">
+		<Text>A powerful unit, unique to the Pineapple Civilization. It is extremely effective against cities and allows for early game domination.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_UNIT_TW_STRIKE_FORCE">
+		<Text>Strike Force</Text>
+	</Row>
+	<Row Tag="TXT_KEY_UNIT_HELP_TW_STRIKE_FORCE">
+		<Text>A powerful unit, unique to the Pineapple Civilization. It is extremely effective against cities and allows for middle game domination.</Text>
+	</Row>
+
+
+	<!-- Unique Buildings -->
+		
+	<Row Tag="TXT_KEY_BUILDING_TW_FEEDING_GROUND">
+		<Text>Feeding Ground</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_TW_FEEDING_GROUND_DESC">
+		<Text>Feeding Ground</Text>
+		<Gender>neuter:the</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_TW_FEEDING_GROUNDY_STRATEGY">
+		<Text>The feeding ground increases the [ICON_HAPPINESS_1] of the pineapple population by 5. It also eliminates the extra unhappiness from occupied cities as the people in them are eaten.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_TW_FEEDING_GROUND_PEDIA">
+		<Text>+5[ICON_HAPPINESS_1] and eliminates the unhappiness from the occupied population.</Text>
+	</Row>
+
+	<!-- Spies -->
+
+	<Row Tag="TXT_KEY_SPY_NAME_TW_PINEAPPLE_0">
+		<Text>asdf</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_TW_PINEAPPLE_1">
+		<Text>Robert Olmstead</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_TW_PINEAPPLE_2">
+		<Text>Barnabas Marsh</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_TW_PINEAPPLE_3">
+		<Text>Pth'thya-l'yi</Text>
+		<Gender>feminine</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_TW_PINEAPPLE_4">
+		<Text>Sir Wade Jermyn</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_TW_PINEAPPLE_5">
+		<Text>Herbert West</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_TW_PINEAPPLE_6">
+		<Text>Tim Sonnek</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_TW_PINEAPPLE_7">
+		<Text>Lavinia Whateley</Text>
+		<Gender>feminine</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_TW_PINEAPPLE_8">
+		<Text>Keziah Mason</Text>
+		<Gender>feminine</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_SPY_NAME_TW_PINEAPPLE_9">
+		<Text>Kuranes</Text>
+	</Row>
+
+	<!-- City Names-->
+
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_0">
+		<Text>O Lugar de Comer</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_1">
+		<Text>Yn Bwyta y Meirw</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_2">
+		<Text>Mae Y Pinafal Yn Bwyta</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_3">
+		<Text>Bwyd Anifeiliaid</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_4">
+		<Text>Porth Marwolaeth</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_5">
+		<Text>Waith Llosgi</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_6">
+		<Text>Waith Ysbrydion</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_7">
+		<Text>Ananas-feed Hier</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_8">
+		<Text>Ananas-Welt</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_9">
+		<Text>Hungrige</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_10">
+		<Text>Essen</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_11">
+		<Text>Die Frucht-Feed</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_12">
+		<Text>Branden ze Allemaal</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_13">
+		<Text>Mooi Vertalen</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_14">
+		<Text>Ik Hoop dat Sommigen Dit Leest</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_15">
+		<Text>Ik Heb Geen Meer Namen</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_16">
+		<Text>Ik Ben Klaar</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CITY_NAME_TW_PINEAPPLE_17">
+		<Text>Achternaam</Text>
+	</Row>
+	</Language_en_US>
+</GameData>
