@@ -4,62 +4,62 @@
 <GameData>
 	<Leaders>
 		<Row>
-			<Type>LEADER_TW_ABACAXI</Type>
-			<Description>TXT_KEY_LEADER_TW_ABACAXI</Description>
-			<Civilopedia>TXT_KEY_LEADER_TW_ABACAXI_PEDIA</Civilopedia>
-			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_TW_ABACAXI</CivilopediaTag>
-			<ArtDefineTag>Scene_Abacaxi.xml</ArtDefineTag>
+			<Type>LEADER_PEDRO</Type>
+			<Description>TXT_KEY_LEADER_PEDRO</Description>
+			<Civilopedia>TXT_KEY_LEADER_PEDRO_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_PEDRO</CivilopediaTag>
+			<ArtDefineTag>Scene_Pedro.xml</ArtDefineTag>
 			<VictoryCompetitiveness>9</VictoryCompetitiveness>
-			<WonderCompetitiveness>2</WonderCompetitiveness>
-			<MinorCivCompetitiveness>8</MinorCivCompetitiveness>
-			<Boldness>9</Boldness>
-			<DiploBalance>3</DiploBalance>
-			<WarmongerHate>1</WarmongerHate>
-			<DenounceWillingness>3</DenounceWillingness>
-			<DoFWillingness>5</DoFWillingness>
-			<Loyalty>9</Loyalty>
-			<Neediness>2</Neediness>
-			<Forgiveness>1</Forgiveness>
-			<Chattiness>9</Chattiness>
-			<Meanness>4</Meanness>
+			<WonderCompetitiveness>7</WonderCompetitiveness>
+			<MinorCivCompetitiveness>3</MinorCivCompetitiveness>
+			<Boldness>6</Boldness>
+			<DiploBalance>8</DiploBalance>
+			<WarmongerHate>6</WarmongerHate>
+			<DenounceWillingness>4</DenounceWillingness>
+			<DoFWillingness>7</DoFWillingness>
+			<Loyalty>7</Loyalty>
+			<Neediness>1</Neediness>
+			<Forgiveness>5</Forgiveness>
+			<Chattiness>5</Chattiness>
+			<Meanness>3</Meanness>
 			<PortraitIndex>1</PortraitIndex>
-			<IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
+			<IconAtlas>CIV_COLOR_ATLAS_BRAZIL</IconAtlas>
 		</Row>
 	</Leaders>
 	
 	<Leader_MajorCivApproachBiases>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
-			<Bias>9</Bias>
+			<Bias>7</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
-			<Bias>2</Bias>
-		</Row>
-		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
-			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
-			<Bias>1</Bias>
-		</Row>
-		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
-			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
-			<Bias>2</Bias>
-		</Row>
-		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
-			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
-			<Bias>1</Bias>
-		</Row>
-		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
-			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
 			<Bias>3</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_PEDRO</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_PEDRO</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+			<Bias>2</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_PEDRO</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
 			<Bias>6</Bias>
 		</Row>
@@ -67,22 +67,22 @@
 	
 	<Leader_MinorCivApproachBiases>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
-			<Bias>3</Bias>
+			<Bias>6</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
-			<Bias>2</Bias>
+			<Bias>7</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
-			<Bias>3</Bias>
+			<Bias>4</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
 			<Bias>7</Bias>
 		</Row>
@@ -90,87 +90,87 @@
 	
 	<Leader_Flavors>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<FlavorType>FLAVOR_OFFENSE</FlavorType>
-			<Flavor>9</Flavor>
+			<Flavor>7</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<FlavorType>FLAVOR_DEFENSE</FlavorType>
-			<Flavor>3</Flavor>
+			<Flavor>6</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
-			<Flavor>3</Flavor>
+			<Flavor>5</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
-			<Flavor>9</Flavor>
+			<Flavor>6</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<FlavorType>FLAVOR_RECON</FlavorType>
-			<Flavor>3</Flavor>
+			<Flavor>7</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<FlavorType>FLAVOR_RANGED</FlavorType>
-			<Flavor>8</Flavor>
+			<Flavor>6</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<FlavorType>FLAVOR_MOBILE</FlavorType>
 			<Flavor>5</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<FlavorType>FLAVOR_NAVAL</FlavorType>
-			<Flavor>4</Flavor>
-		</Row>
-		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
-			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
-			<Flavor>3</Flavor>
-		</Row>
-		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
-			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
-			<Flavor>3</Flavor>
-		</Row>
-		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
-			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
-			<Flavor>8</Flavor>
-		</Row>
-		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
-			<FlavorType>FLAVOR_AIR</FlavorType>
-			<Flavor>6</Flavor>
-		</Row>
-		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>9</Flavor>
-		</Row>
-		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
-			<FlavorType>FLAVOR_GROWTH</FlavorType>
-			<Flavor>2</Flavor>
-		</Row>
-		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
-			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
-			<Flavor>9</Flavor>
-		</Row>
-		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
-			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
 			<Flavor>7</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_TW_ABACAXI</LeaderType>
+			<LeaderType>LEADER_PEDRO</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_PEDRO</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_PEDRO</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_PEDRO</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_PEDRO</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_PEDRO</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_PEDRO</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_PEDRO</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_PEDRO</LeaderType>
 			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
 			<Flavor>8</Flavor>
 		</Row>
